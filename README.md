@@ -8,4 +8,4 @@ This repository contains my DBMS project documentation created in Word.
 - Results and Analysis
 
 ## How to Access
-Download the Word document [here] 
+Download the Word document [here] (https://github.com/dsharma06-hub/DBMS-Project/blob/main/DBMS%20STUDENT%20PROJECT%20REPORT.docx).
